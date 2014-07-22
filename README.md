@@ -22,7 +22,7 @@
     <tr>
       <td>
         <a href="http://goo.gl/ecUFJJ" target="_blank">
-          <img src="//goo.gl/gggz2m" alt="تبرع لغزة" />
+          <img src="https://goo.gl/gggz2m" alt="تبرع لغزة" />
         </a>
       </td>
       <td>
@@ -39,7 +39,7 @@
     <tr>
       <td>
         <a href="http://goo.gl/ecUFJJ" target="_blank">
-          <img src="//goo.gl/gkjuOV" alt="تبرع لغزة" />
+          <img src="https://goo.gl/gkjuOV" alt="تبرع لغزة" />
         </a>
       </td>
       <td>
@@ -84,7 +84,7 @@ suffering, you can add the following code snippet to your website's HTML:
       </td>
       <td>
         <a href="http://goo.gl/bkdx0p" target="_blank">
-          <img src="//goo.gl/cfyOrk" alt="Donate to Gaza" />
+          <img src="https://goo.gl/cfyOrk" alt="Donate to Gaza" />
         </a>
       </td>
     </tr>
@@ -101,7 +101,7 @@ suffering, you can add the following code snippet to your website's HTML:
       </td>
       <td>
         <a href="http://goo.gl/bkdx0p" target="_blank">
-          <img src="//goo.gl/1bfN28" alt="Donate to Gaza" />
+          <img src="https://goo.gl/1bfN28" alt="Donate to Gaza" />
         </a>
       </td>
     </tr>
