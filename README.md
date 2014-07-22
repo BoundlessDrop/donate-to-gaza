@@ -21,13 +21,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="http://goo.gl/ecUFJJ">
+        <a href="http://goo.gl/ecUFJJ" target="_blank">
           <img src="http://goo.gl/gggz2m" alt="تبرع لغزة" />
         </a>
       </td>
       <td>
         <pre>
-&lt;a href="http://goo.gl/ecUFJJ"&gt;
+&lt;a href="http://goo.gl/ecUFJJ" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; left: 0;
               border: 0; z-index: 9999;"
        src="http://goo.gl/gggz2m"
@@ -38,13 +38,13 @@
     </tr>
     <tr>
       <td>
-        <a href="http://goo.gl/ecUFJJ">
+        <a href="http://goo.gl/ecUFJJ" target="_blank">
           <img src="http://goo.gl/gkjuOV" alt="تبرع لغزة" />
         </a>
       </td>
       <td>
         <pre>
-&lt;a href="http://goo.gl/ecUFJJ"&gt;
+&lt;a href="http://goo.gl/ecUFJJ" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; right: 0;
               border: 0; z-index: 9999;"
        src="http://goo.gl/gkjuOV"
@@ -74,7 +74,7 @@ suffering, you can add the following code snippet to your website's HTML:
     <tr>
       <td>
         <pre>
-&lt;a href="http://goo.gl/bkdx0p"&gt;
+&lt;a href="http://goo.gl/bkdx0p" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; right: 0;
               border: 0; z-index: 9999;"
        src="http://goo.gl/cfyOrk"
@@ -83,7 +83,7 @@ suffering, you can add the following code snippet to your website's HTML:
         </pre>
       </td>
       <td>
-        <a href="http://goo.gl/bkdx0p">
+        <a href="http://goo.gl/bkdx0p" target="_blank">
           <img src="http://goo.gl/cfyOrk" alt="Donate to Gaza" />
         </a>
       </td>
@@ -91,7 +91,7 @@ suffering, you can add the following code snippet to your website's HTML:
     <tr>
       <td>
         <pre>
-&lt;a href="http://goo.gl/bkdx0p"&gt;
+&lt;a href="http://goo.gl/bkdx0p" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; left: 0;
               border: 0; z-index: 9999;"
        src="http://goo.gl/1bfN28"
@@ -100,7 +100,7 @@ suffering, you can add the following code snippet to your website's HTML:
         </pre>
       </td>
       <td>
-        <a href="http://goo.gl/bkdx0p">
+        <a href="http://goo.gl/bkdx0p" target="_blank">
           <img src="http://goo.gl/1bfN28" alt="Donate to Gaza" />
         </a>
       </td>
