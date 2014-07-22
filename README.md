@@ -22,7 +22,7 @@
     <tr>
       <td>
         <a href="http://goo.gl/ecUFJJ" target="_blank">
-          <img src="http://goo.gl/gggz2m" alt="تبرع لغزة" />
+          <img src="//goo.gl/gggz2m" alt="تبرع لغزة" />
         </a>
       </td>
       <td>
@@ -30,7 +30,7 @@
 &lt;a href="http://goo.gl/ecUFJJ" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; left: 0;
               border: 0; z-index: 9999;"
-       src="http://goo.gl/gggz2m"
+       src="//goo.gl/gggz2m"
        alt="تبرع لغزة" /&gt;
 &lt;/a&gt;
         </pre>
@@ -39,7 +39,7 @@
     <tr>
       <td>
         <a href="http://goo.gl/ecUFJJ" target="_blank">
-          <img src="http://goo.gl/gkjuOV" alt="تبرع لغزة" />
+          <img src="//goo.gl/gkjuOV" alt="تبرع لغزة" />
         </a>
       </td>
       <td>
@@ -47,7 +47,7 @@
 &lt;a href="http://goo.gl/ecUFJJ" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; right: 0;
               border: 0; z-index: 9999;"
-       src="http://goo.gl/gkjuOV"
+       src="//goo.gl/gkjuOV"
        alt="تبرع لغزة" /&gt;
 &lt;/a&gt;
         </pre>
@@ -77,14 +77,14 @@ suffering, you can add the following code snippet to your website's HTML:
 &lt;a href="http://goo.gl/bkdx0p" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; right: 0;
               border: 0; z-index: 9999;"
-       src="http://goo.gl/cfyOrk"
+       src="//goo.gl/cfyOrk"
        alt="Donate to Gaza" /&gt;
 &lt;/a&gt;
         </pre>
       </td>
       <td>
         <a href="http://goo.gl/bkdx0p" target="_blank">
-          <img src="http://goo.gl/cfyOrk" alt="Donate to Gaza" />
+          <img src="//goo.gl/cfyOrk" alt="Donate to Gaza" />
         </a>
       </td>
     </tr>
@@ -94,14 +94,14 @@ suffering, you can add the following code snippet to your website's HTML:
 &lt;a href="http://goo.gl/bkdx0p" target="_blank"&gt;
   &lt;img style="position: absolute; top: 0; left: 0;
               border: 0; z-index: 9999;"
-       src="http://goo.gl/1bfN28"
+       src="//goo.gl/1bfN28"
        alt="Donate to Gaza" /&gt;
 &lt;/a&gt;
         </pre>
       </td>
       <td>
         <a href="http://goo.gl/bkdx0p" target="_blank">
-          <img src="http://goo.gl/1bfN28" alt="Donate to Gaza" />
+          <img src="//goo.gl/1bfN28" alt="Donate to Gaza" />
         </a>
       </td>
     </tr>
